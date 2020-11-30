@@ -1,0 +1,29 @@
+img{
+    width: 960px;
+    margin-top: 3px;
+    margin-left: 4px;
+}
+li{
+    float: left;
+    margin-top: 30;
+    margin-right: 25px;
+}
+nav{
+    float: right;
+    margin-top: 10px;
+    margin-right: 100px;
+}
+a{
+    text-emphasis: none;
+    font-family: fantasy;
+    color: rgb(255, 255, 255);
+}
+li:hover a{
+    color: black;
+}
+header{
+    background-color: firebrick;
+}
+fondo {
+    background-color: hsl(180, 50%, 80%);
+  }

@@ -1,0 +1,26 @@
+P  {
+    font-size : 12pt;
+    font-family : arial,helvetica;
+    font-weight : normal;
+   }
+   
+   H1  {
+    font-size : 36pt;
+    font-family : verdana,arial;
+    text-decoration : underline;
+    text-align : center;
+    background-color : Teal;
+   }
+   
+   TD  {
+    font-size : 10pt;
+    font-family : verdana,arial;
+    text-align : center;
+    background-color : 666666;
+   }
+   
+   BODY  {
+    background-image:url(imagenes/https://i.pinimg.com/originals/e5/6a/5f/e56a5f6c133d83f680ff9813148ebed0.jpg);
+    font-family : arial;
+    color : rgb(0, 0, 0);
+   }
